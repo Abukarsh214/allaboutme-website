@@ -1,0 +1,19 @@
+h1{
+	color: darkred;
+}
+
+p{
+	color: darkred;
+}
+body{
+	background-color: whitesmoke;
+	color:darkred;
+.gray-element{
+	background-color: lightgrey;
+}
+button{
+	background-color: lightblue;
+}
+.text{
+	font-style: italic;
+}
